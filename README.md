@@ -37,7 +37,7 @@ Market Monitor Widget is a lightweight desktop application that provides real-ti
 ## 📸 Screenshot
 
 ![Market Monitor Widget](screenshot.png)
-*Example showing BTC, ETH, XRP, and SOL with market indicators*
+*Example showing BTC, ETH, XRP with market indicators*
 
 ## 🚀 Quick Start
 
