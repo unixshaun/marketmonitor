@@ -15,7 +15,7 @@ class CryptoWidget:
         
         # CoinMarketCap API Key
         # Get your free API key at: https://coinmarketcap.com/api/
-        self.CMC_API_KEY = "f4f2a47ef9714ae98e7a664de1cbc1ed"  # Replace with your actual API key
+        self.CMC_API_KEY = "YOUR_API_KEY_GOES_HERE"  # Replace with your actual API key
         
         # Load configuration
         self.load_config()
